@@ -1,0 +1,4 @@
+Django==5.2.4
+Djangorestframework==3.16
+psycopg2==2.9.10
+Djangorestframework_simplejwt==5.5.0
